@@ -10,7 +10,7 @@ This project is a simulation of a digital password lock system (Passcode: **2-0-
 TinkerCADを用いた「デジタル暗証番号ロックシステム（パスワード：2023）」のシミュレーション設計です。
 マイコンを使わず、論理ゲートとフリップフロップだけで3つのサブシステム（認識・制御・警報）を連携させ、ハードウェアレベルで実装しました。
 
-### 🔗 [Click here to run Simulation on TinkerCAD]([DÁN LINK TINKERCAD CỦA BẠN VÀO ĐÂY])
+### 🔗 [Click here to run Simulation on TinkerCAD](https://www.tinkercad.com/things/bWv04wIoOe6-cui-ki-in-t-cho-cntt?sharecode=G7y2xH1ShoAoVC4qLZa1cn7bWNmS80ofVblFm5esdfM)
 
 ---
 
